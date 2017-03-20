@@ -1,4 +1,54 @@
-Afskærmning
+Test
+----
 
+Consider room temperature on test start
+
+bMeasure temperature on tank surface (calibrate first)
+
+
+Backlog
+-------
+
+Print new params
+
+Account for flukes reading
+
+Calibrate sensors
+
+Log prints actual time (fix log.sh)
+
+Testmode (allow setting target temp) + log changes of target temp.
+
+Restart of brew2mate optional when starting to log
+
+Print probe assignment at startup
+
+Commands from "controller" TO brew2mate:
+- set target temp
+- request log entry
+- request parameters
+
+Clear indication of "mode"
+
+Afskærmning
 alarm (low/high) -- requires WiFi
 sensor fail alarm
+
+Errors
+------
+
+Max is set to 85C
+
+Turn on/off on restart
+
+Unplugging lightbuild caused PC to shutdown.
+
+Permissions to /dev/ttyACM0 may be lost
+
+Killing log.sh does not kill ttylog
+
+At target 20.0 at actyal 16.2 blinking COOLING at startup.
+Clicking "change now" results in HEATING.
+
+Display goes haywire
+

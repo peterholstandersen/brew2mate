@@ -5,8 +5,8 @@
 #define FAN_INDEX   3
 
 long allowed_idle_time = -1;
-long allowed_heat_time = -1;
-long allowed_cool_time = -1;
+long allowed_heat_time = START_UP_DELAY;
+long allowed_cool_time = START_UP_DELAY;
 
 
 // Keys on the front of the box are numbered from right to left
@@ -49,8 +49,10 @@ void key5_event() {
     screensaver_off();
     return;
   }
-  // target_temperature = target_temperature + 0.1;
-  // target_temperature = round(target_temperature * 10.0) / 10.0;
+#if TEST_MODE
+  target_temperature = target_temperature + 0.1;
+  target_temperature = round(target_temperature * 10.0) / 10.0;
+#endif
   screensaver_off();
 }
 
@@ -59,40 +61,57 @@ void key6_event() {
     screensaver_off();
     return;
   }
-  // target_temperature = target_temperature - 0.1;
-  // target_temperature = round(target_temperature * 10.0) / 10.0;
+#if TEST_MODE
+  target_temperature = target_temperature - 0.1;
+  target_temperature = round(target_temperature * 10.0) / 10.0;
+#endif
   screensaver_off();
+}
+
+void set_allowed_idle_time(long timestamp) {
+  if (timestamp > allowed_idle_time)
+    allowed_idle_time = timestamp;
+}
+
+void set_allowed_heat_time(long timestamp) {
+  if (timestamp > allowed_heat_time)
+    allowed_heat_time = timestamp;
+}
+
+void set_allowed_cool_time(long timestamp) {
+  if (timestamp > allowed_cool_time)
+    allowed_cool_time = timestamp;
 }
 
 void set_mode(int desired_mode) {
 
   long now = millis();
 
-  current_mode = desired_mode;
-  
   int heat = LOW;
   int cool = LOW;
+
+  current_mode = desired_mode;
 
   switch (current_mode) {
     case IDLE:
       heat = LOW;
       cool = LOW;
+      set_allowed_cool_time(now + MINIMUM_IDLE_TIME);
+      set_allowed_heat_time(now + MINIMUM_IDLE_TIME);
       break;
 
     case HEATING:
       heat = HIGH;
       cool = LOW;
-      allowed_heat_time = now + START_HEATING_DELAY;
-      allowed_cool_time = now + MIN_HEATING_TIME;
-      allowed_idle_time = now + MIN_HEATING_TIME;
+      set_allowed_idle_time(now + MINIMUM_HEAT_TIME);
+      set_allowed_cool_time(now + COOL_HEAT_DELAY);
       break;
 
     case COOLING:
       heat = LOW;
       cool = HIGH;
-      allowed_cool_time = now + START_COOLING_DELAY;
-      allowed_heat_time = now + MIN_COOLING_TIME;
-      allowed_idle_time = now + MIN_COOLING_TIME;
+      set_allowed_idle_time(now + MINIMUM_COOL_TIME);
+      set_allowed_heat_time(now + COOL_HEAT_DELAY);
       break;
   }
 
@@ -101,7 +120,6 @@ void set_mode(int desired_mode) {
 }
 
 int check_desired_mode() {
-
   float actual_temperature = get_actual_temperature();
   float temp_diff = actual_temperature - target_temperature;
   if (temp_diff < 0.0)
@@ -127,6 +145,7 @@ int check_idle(float actual_temperature) {
 }
 
 int check_heating(float actual_temperature) {
+  // It will continue heating until the temperature rises above the target temperature
   if (actual_temperature > target_temperature + TEMPERATURE_TOLERANCE)
     return COOLING;
   if (actual_temperature >= target_temperature) 
@@ -135,6 +154,7 @@ int check_heating(float actual_temperature) {
 }
 
 int check_cooling(float actual_temperature) {
+  // It will continue cooling until the temperature drops below the target temperature
   if (actual_temperature < target_temperature - TEMPERATURE_TOLERANCE)
     return HEATING;
   if (actual_temperature <= target_temperature)
@@ -151,6 +171,14 @@ void loop_logic() {
   if (actual_temperature > max_temperature)
     max_temperature = actual_temperature;
 
+  long now = millis();
+
+  // We want a pause between switching between cooling and heating
+  switch (current_mode) {
+  case HEATING: set_allowed_cool_time(now + COOL_HEAT_DELAY); break;
+  case COOLING: set_allowed_heat_time(now + COOL_HEAT_DELAY); break;
+  }
+  
   // Determine desired mode
   switch (current_mode) {
   case IDLE:    desired_mode = check_idle(actual_temperature);    break;
@@ -158,8 +186,9 @@ void loop_logic() {
   case COOLING: desired_mode = check_cooling(actual_temperature); break;
   }
 
-  long now = millis();
-
+  if (desired_mode == current_mode)
+    return;
+  
   // Set desired mode, if it is allowed
   switch (desired_mode) {
   case IDLE:    if (now > allowed_idle_time) set_mode(IDLE); break;

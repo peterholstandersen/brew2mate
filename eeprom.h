@@ -65,9 +65,6 @@ void restore_data() {
 
 
 void loop_eeprom() {
-  if (!PERSIST_DATA)
-    return;
-  
   static float stored_temperature = 0;
 
   const long eeprom_interval = 5000; // TODO: change once done testing
