@@ -4,6 +4,7 @@
 #include <EEPROM.h>
 #include <OneWire.h>
 #include <DallasTemperature.h>
+#include <limits.h>
 
 // ==== "Global" parameters and variables =====================================================
 
@@ -16,6 +17,7 @@
 #define TEN_MINUTES             (10L * ONE_MINUTE)
 #define FIFTEEN_MINUTES         (15L * ONE_MINUTE)
 #define ONE_HOUR                (60L * ONE_MINUTE)
+#define NEVERISH                LONG_MAX
 
 #define SCREENSAVER_DELAY       TEN_MINUTES
 
@@ -26,7 +28,7 @@
 #define TEMPERATURE_TOLERANCE   0.5f
 
 #if TEST_MODE
-#define START_UP_DELAY          ONE_HOUR
+#define START_UP_DELAY          NEVERISH
 #else
 #define START_UP_DELAY          ONE_MINUTE
 #endif

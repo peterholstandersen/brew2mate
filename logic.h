@@ -119,23 +119,7 @@ void set_mode(int desired_mode) {
   set_relay(COOL_INDEX, cool);
 }
 
-int check_desired_mode() {
-  float actual_temperature = get_actual_temperature();
-  float temp_diff = actual_temperature - target_temperature;
-  if (temp_diff < 0.0)
-    temp_diff = -temp_diff;
-
-  if (temp_diff < TEMPERATURE_TOLERANCE) {
-    desired_mode = IDLE;
-  }
-  else {
-    if (actual_temperature > target_temperature)
-      desired_mode = COOLING;
-    else
-      desired_mode = HEATING;
-   }
-}
-
+// When in idle determine which mode we want to change to
 int check_idle(float actual_temperature) {
   if (actual_temperature > target_temperature + TEMPERATURE_TOLERANCE)
       return COOLING;
@@ -144,22 +128,19 @@ int check_idle(float actual_temperature) {
   return IDLE;
 }
 
+// When in heating mode determinie which mode we want to change to
 int check_heating(float actual_temperature) {
-  // It will continue heating until the temperature rises above the target temperature
-  if (actual_temperature > target_temperature + TEMPERATURE_TOLERANCE)
-    return COOLING;
-  if (actual_temperature >= target_temperature) 
-    return IDLE;
-  return HEATING;
+  // Continue heating until the temperature rises above the target temperature
+  if (actual_temperature < target_temperature) 
+    return HEATING;
+  return IDLE;
 }
 
 int check_cooling(float actual_temperature) {
-  // It will continue cooling until the temperature drops below the target temperature
-  if (actual_temperature < target_temperature - TEMPERATURE_TOLERANCE)
-    return HEATING;
-  if (actual_temperature <= target_temperature)
-    return IDLE;
-  return COOLING;
+  // Continue cooling until the temperature drops below the target temperature
+  if (actual_temperature > target_temperature)
+    return COOLING;
+  return IDLE;
 }
 
 void loop_logic() {
