@@ -21,12 +21,18 @@ Testmode (allow setting target temp) + log changes of target temp.
 
 Restart of brew2mate optional when starting to log
 
+Suspend mode (starts up in this mode when testing)
+
+Blink between desired and current mode
+
 Print probe assignment at startup
 
 Commands from "controller" TO brew2mate:
 - set target temp
 - request log entry
 - request parameters
+
+Detect open opened/closed
 
 Clear indication of "mode"
 

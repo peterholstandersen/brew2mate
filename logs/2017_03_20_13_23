@@ -1,0 +1,912 @@
+[258732] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=3858653  allowed_cool_time=-1  target_temperature=12.70    actual[0]=15.19    actual[1]=14.31    actual[2]=12.94    actual[3]=14.56  
+[268864] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=3868785  allowed_cool_time=-1  target_temperature=12.70    actual[0]=15.19    actual[1]=14.25    actual[2]=12.94    actual[3]=14.56  
+[278996] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=3878918  allowed_cool_time=-1  target_temperature=12.70    actual[0]=15.19    actual[1]=14.25    actual[2]=12.94    actual[3]=14.56  
+[289129] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=3889050  allowed_cool_time=-1  target_temperature=12.70    actual[0]=15.19    actual[1]=14.19    actual[2]=12.94    actual[3]=14.50  
+[299261] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=3899183  allowed_cool_time=-1  target_temperature=12.70    actual[0]=15.13    actual[1]=14.19    actual[2]=12.94    actual[3]=14.50  
+[309379] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=3909300  allowed_cool_time=-1  target_temperature=12.70    actual[0]=15.19    actual[1]=14.19    actual[2]=12.94    actual[3]=14.44  
+[319510] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=3919431  allowed_cool_time=-1  target_temperature=13.00    actual[0]=15.13    actual[1]=14.19    actual[2]=12.94    actual[3]=14.38  
+[329643] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=3929564  allowed_cool_time=-1  target_temperature=13.00    actual[0]=15.13    actual[1]=14.19    actual[2]=13.00    actual[3]=14.31  
+[339774] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=3939695  allowed_cool_time=-1  target_temperature=13.00    actual[0]=15.13    actual[1]=14.13    actual[2]=12.94    actual[3]=14.25  
+[349905] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=3949827  allowed_cool_time=-1  target_temperature=13.00    actual[0]=15.06    actual[1]=14.13    actual[2]=12.94    actual[3]=14.19  
+[360038] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=3959959  allowed_cool_time=-1  target_temperature=13.00    actual[0]=15.06    actual[1]=14.13    actual[2]=12.94    actual[3]=14.13  
+[370151] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=3970072  allowed_cool_time=-1  target_temperature=13.00    actual[0]=15.00    actual[1]=14.06    actual[2]=12.94    actual[3]=14.06  
+[380280] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=3980201  allowed_cool_time=-1  target_temperature=13.00    actual[0]=14.94    actual[1]=14.06    actual[2]=12.94    actual[3]=14.00  
+[390407] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=3990328  allowed_cool_time=-1  target_temperature=13.00    actual[0]=14.88    actual[1]=14.00    actual[2]=12.94    actual[3]=13.94  
+[400535] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=4000456  allowed_cool_time=-1  target_temperature=13.00    actual[0]=14.81    actual[1]=14.00    actual[2]=13.00    actual[3]=13.88  
+[410664] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=4010586  allowed_cool_time=-1  target_temperature=13.00    actual[0]=14.75    actual[1]=14.00    actual[2]=12.94    actual[3]=13.88  
+[420793] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=4020714  allowed_cool_time=-1  target_temperature=13.00    actual[0]=14.69    actual[1]=13.94    actual[2]=12.94    actual[3]=13.81  
+[430905] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=4030826  allowed_cool_time=-1  target_temperature=13.00    actual[0]=14.56    actual[1]=13.94    actual[2]=12.88    actual[3]=13.81  
+[441035] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=4040956  allowed_cool_time=-1  target_temperature=13.00    actual[0]=14.50    actual[1]=13.94    actual[2]=12.88    actual[3]=13.75  
+[451165] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=4051086  allowed_cool_time=-1  target_temperature=13.00    actual[0]=14.38    actual[1]=13.88    actual[2]=12.94    actual[3]=13.69  
+[461297] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=4061218  allowed_cool_time=-1  target_temperature=13.00    actual[0]=14.31    actual[1]=13.81    actual[2]=12.88    actual[3]=13.56  
+[471428] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=4071349  allowed_cool_time=-1  target_temperature=13.00    actual[0]=14.25    actual[1]=13.81    actual[2]=12.88    actual[3]=13.50  
+[481555] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=4081476  allowed_cool_time=-1  target_temperature=13.00    actual[0]=14.13    actual[1]=13.75    actual[2]=12.88    actual[3]=13.31  
+[491671] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=4091592  allowed_cool_time=-1  target_temperature=12.90    actual[0]=14.06    actual[1]=13.75    actual[2]=12.88    actual[3]=13.06  
+[501804] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=4101725  allowed_cool_time=-1  target_temperature=12.90    actual[0]=13.94    actual[1]=13.75    actual[2]=12.88    actual[3]=12.81  
+[511937] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=4111858  allowed_cool_time=-1  target_temperature=12.90    actual[0]=13.88    actual[1]=13.69    actual[2]=12.88    actual[3]=12.56  
+[522067] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=4121989  allowed_cool_time=-1  target_temperature=12.90    actual[0]=13.75    actual[1]=13.63    actual[2]=12.88    actual[3]=12.38  
+[532197] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=4132118  allowed_cool_time=-1  target_temperature=12.90    actual[0]=13.69    actual[1]=13.63    actual[2]=12.81    actual[3]=12.19  
+[542327] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=495743  allowed_heat_time=4133222  allowed_cool_time=713222  target_temperature=12.90    actual[0]=13.69    actual[1]=13.63    actual[2]=12.81    actual[3]=12.19  
+[552448] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=495743  allowed_heat_time=4133222  allowed_cool_time=713222  target_temperature=12.90    actual[0]=13.63    actual[1]=13.63    actual[2]=12.44    actual[3]=12.31  
+[562581] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=495743  allowed_heat_time=4133222  allowed_cool_time=713222  target_temperature=12.90    actual[0]=13.56    actual[1]=13.56    actual[2]=12.38    actual[3]=12.44  
+[577786] current_mode=IDLE     desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=4133222  allowed_cool_time=713222  target_temperature=12.40    actual[0]=13.44    actual[1]=13.56    actual[2]=12.38    actual[3]=12.56  
+[587897] current_mode=IDLE     desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=4133222  allowed_cool_time=713222  target_temperature=12.40    actual[0]=13.31    actual[1]=13.50    actual[2]=12.38    actual[3]=12.56  
+[598034] current_mode=IDLE     desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=4133222  allowed_cool_time=713222  target_temperature=12.40    actual[0]=13.31    actual[1]=13.50    actual[2]=12.38    actual[3]=12.44  
+[608157] current_mode=IDLE     desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=4133222  allowed_cool_time=713222  target_temperature=12.40    actual[0]=13.25    actual[1]=13.44    actual[2]=12.38    actual[3]=12.44  
+[618291] current_mode=IDLE     desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=4133222  allowed_cool_time=713222  target_temperature=12.40    actual[0]=13.19    actual[1]=13.44    actual[2]=12.38    actual[3]=12.44  
+[628428] current_mode=IDLE     desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=4133222  allowed_cool_time=713222  target_temperature=12.40    actual[0]=13.19    actual[1]=13.38    actual[2]=12.38    actual[3]=12.38  
+[638567] current_mode=IDLE     desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=4133222  allowed_cool_time=713222  target_temperature=12.40    actual[0]=13.25    actual[1]=13.44    actual[2]=12.38    actual[3]=14.44  
+[648707] current_mode=IDLE     desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=4133222  allowed_cool_time=713222  target_temperature=12.40    actual[0]=13.25    actual[1]=13.75    actual[2]=12.38    actual[3]=15.06  
+[658818] current_mode=IDLE     desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=4133222  allowed_cool_time=713222  target_temperature=12.40    actual[0]=13.25    actual[1]=13.88    actual[2]=12.38    actual[3]=14.75  
+[668958] current_mode=IDLE     desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=4133222  allowed_cool_time=713222  target_temperature=12.40    actual[0]=13.31    actual[1]=13.75    actual[2]=12.38    actual[3]=14.56  
+[679085] current_mode=IDLE     desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=4133222  allowed_cool_time=713222  target_temperature=12.40    actual[0]=13.31    actual[1]=13.69    actual[2]=12.38    actual[3]=14.31  
+[689186] current_mode=IDLE     desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=4133222  allowed_cool_time=713222  target_temperature=12.40    actual[0]=13.25    actual[1]=13.56    actual[2]=12.38    actual[3]=14.13  
+[699287] current_mode=IDLE     desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=4133222  allowed_cool_time=713222  target_temperature=12.40    actual[0]=13.25    actual[1]=13.56    actual[2]=12.38    actual[3]=13.94  
+[704337] current_mode=IDLE     desired_mode=COOLING  allowed_idle_time=495743  allowed_heat_time=4133222  allowed_cool_time=713222  target_temperature=12.40    actual[0]=13.31    actual[1]=13.56    actual[2]=12.38    actual[3]=13.88  
+[714466] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=1013237  allowed_heat_time=4314387  allowed_cool_time=713222  target_temperature=12.40    actual[0]=13.25    actual[1]=13.50    actual[2]=12.38    actual[3]=13.81  
+[724540] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=1013237  allowed_heat_time=4324461  allowed_cool_time=713222  target_temperature=12.40    actual[0]=13.25    actual[1]=13.44    actual[2]=12.38    actual[3]=13.69  
+[734682] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=1013237  allowed_heat_time=4334603  allowed_cool_time=713222  target_temperature=12.40    actual[0]=13.25    actual[1]=13.38    actual[2]=12.38    actual[3]=13.56  
+[744805] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=1013237  allowed_heat_time=4344726  allowed_cool_time=713222  target_temperature=12.40    actual[0]=13.19    actual[1]=13.38    actual[2]=12.44    actual[3]=13.44  
+[754928] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=1013237  allowed_heat_time=4354848  allowed_cool_time=713222  target_temperature=12.40    actual[0]=13.19    actual[1]=13.31    actual[2]=12.38    actual[3]=13.38  
+[765051] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=1013237  allowed_heat_time=4364973  allowed_cool_time=713222  target_temperature=12.40    actual[0]=13.13    actual[1]=13.25    actual[2]=12.38    actual[3]=13.25  
+[775176] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=1013237  allowed_heat_time=4375097  allowed_cool_time=713222  target_temperature=12.40    actual[0]=13.06    actual[1]=13.25    actual[2]=12.38    actual[3]=13.19  
+[785290] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=1013237  allowed_heat_time=4385211  allowed_cool_time=713222  target_temperature=12.40    actual[0]=13.00    actual[1]=13.19    actual[2]=12.38    actual[3]=13.19  
+[795405] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=1013237  allowed_heat_time=4395326  allowed_cool_time=713222  target_temperature=12.40    actual[0]=12.94    actual[1]=13.19    actual[2]=12.38    actual[3]=13.13  
+[805528] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=1013237  allowed_heat_time=4405449  allowed_cool_time=713222  target_temperature=12.40    actual[0]=12.88    actual[1]=13.13    actual[2]=12.38    actual[3]=13.13  
+[815624] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=1013237  allowed_heat_time=4415545  allowed_cool_time=713222  target_temperature=12.40    actual[0]=12.81    actual[1]=13.06    actual[2]=12.38    actual[3]=13.13  
+[825747] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=1013237  allowed_heat_time=4425668  allowed_cool_time=713222  target_temperature=12.40    actual[0]=12.75    actual[1]=13.06    actual[2]=12.38    actual[3]=13.06  
+[835897] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=1013237  allowed_heat_time=4435818  allowed_cool_time=713222  target_temperature=12.40    actual[0]=12.69    actual[1]=13.00    actual[2]=12.38    actual[3]=13.00  
+[846034] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=1013237  allowed_heat_time=4445956  allowed_cool_time=713222  target_temperature=12.40    actual[0]=12.63    actual[1]=13.00    actual[2]=12.38    actual[3]=12.88  
+[856151] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=1013237  allowed_heat_time=4456072  allowed_cool_time=713222  target_temperature=12.40    actual[0]=12.56    actual[1]=12.94    actual[2]=12.38    actual[3]=12.69  
+[866247] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=1013237  allowed_heat_time=4466168  allowed_cool_time=713222  target_temperature=12.40    actual[0]=12.50    actual[1]=12.94    actual[2]=12.38    actual[3]=12.50  
+[876344] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=1013237  allowed_heat_time=4476264  allowed_cool_time=713222  target_temperature=12.40    actual[0]=12.38    actual[1]=12.88    actual[2]=12.38    actual[3]=12.31  
+[886466] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=1013237  allowed_heat_time=4486387  allowed_cool_time=713222  target_temperature=12.40    actual[0]=12.25    actual[1]=12.81    actual[2]=12.38    actual[3]=12.19  
+[896589] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=1013237  allowed_heat_time=4496510  allowed_cool_time=713222  target_temperature=12.40    actual[0]=12.13    actual[1]=12.81    actual[2]=12.38    actual[3]=12.00  
+[906703] current_mode=COOLING  desired_mode=IDLE     allowed_idle_time=1013237  allowed_heat_time=4506625  allowed_cool_time=713222  target_temperature=12.40    actual[0]=12.06    actual[1]=12.75    actual[2]=12.38    actual[3]=11.88  
+[916831] current_mode=COOLING  desired_mode=IDLE     allowed_idle_time=1013237  allowed_heat_time=4516751  allowed_cool_time=713222  target_temperature=12.40    actual[0]=11.94    actual[1]=12.75    actual[2]=12.38    actual[3]=11.75  
+[926959] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.40    actual[0]=11.81    actual[1]=12.69    actual[2]=12.38    actual[3]=11.56  
+[937060] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.40    actual[0]=11.75    actual[1]=12.69    actual[2]=12.38    actual[3]=11.44  
+[947184] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.40    actual[0]=11.63    actual[1]=12.63    actual[2]=12.38    actual[3]=11.38  
+[957335] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.40    actual[0]=11.56    actual[1]=12.63    actual[2]=12.38    actual[3]=11.31  
+[967447] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.40    actual[0]=11.50    actual[1]=12.56    actual[2]=12.38    actual[3]=11.31  
+[977568] current_mode=IDLE     desired_mode=HEATING  allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.40    actual[0]=11.50    actual[1]=12.50    actual[2]=12.38    actual[3]=11.25  
+[987668] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.40    actual[0]=11.44    actual[1]=12.50    actual[2]=12.38    actual[3]=11.25  
+[997768] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.40    actual[0]=11.44    actual[1]=12.50    actual[2]=12.31    actual[3]=11.31  
+[1007869] current_mode=IDLE     desired_mode=HEATING  allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.40    actual[0]=11.38    actual[1]=12.44    actual[2]=12.31    actual[3]=11.31  
+[1017973] current_mode=IDLE     desired_mode=HEATING  allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.40    actual[0]=11.38    actual[1]=12.44    actual[2]=12.31    actual[3]=11.25  
+[1028091] current_mode=IDLE     desired_mode=HEATING  allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.40    actual[0]=11.31    actual[1]=12.38    actual[2]=12.31    actual[3]=11.31  
+[1038220] current_mode=IDLE     desired_mode=HEATING  allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.40    actual[0]=11.31    actual[1]=12.38    actual[2]=12.31    actual[3]=11.31  
+[1048324] current_mode=IDLE     desired_mode=HEATING  allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.40    actual[0]=11.31    actual[1]=12.31    actual[2]=12.31    actual[3]=11.31  
+[1058427] current_mode=IDLE     desired_mode=HEATING  allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.40    actual[0]=11.31    actual[1]=12.31    actual[2]=12.31    actual[3]=11.38  
+[1068531] current_mode=IDLE     desired_mode=HEATING  allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.40    actual[0]=11.31    actual[1]=12.25    actual[2]=12.31    actual[3]=11.38  
+[1078635] current_mode=IDLE     desired_mode=HEATING  allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.40    actual[0]=11.31    actual[1]=12.25    actual[2]=12.31    actual[3]=11.44  
+[1088752] current_mode=IDLE     desired_mode=HEATING  allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.40    actual[0]=11.38    actual[1]=12.25    actual[2]=12.31    actual[3]=11.44  
+[1098882] current_mode=IDLE     desired_mode=HEATING  allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.40    actual[0]=11.38    actual[1]=12.19    actual[2]=12.31    actual[3]=11.50  
+[1108985] current_mode=IDLE     desired_mode=HEATING  allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.40    actual[0]=11.38    actual[1]=12.19    actual[2]=12.31    actual[3]=11.50  
+[1119090] current_mode=IDLE     desired_mode=HEATING  allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.40    actual[0]=11.38    actual[1]=12.19    actual[2]=12.31    actual[3]=11.56  
+[1129194] current_mode=IDLE     desired_mode=HEATING  allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.40    actual[0]=11.44    actual[1]=12.19    actual[2]=12.31    actual[3]=11.56  
+[1139297] current_mode=IDLE     desired_mode=HEATING  allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.40    actual[0]=11.44    actual[1]=12.13    actual[2]=12.31    actual[3]=11.56  
+[1149441] current_mode=IDLE     desired_mode=HEATING  allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.40    actual[0]=11.44    actual[1]=12.13    actual[2]=12.31    actual[3]=11.63  
+[1159567] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=11.50    actual[1]=12.13    actual[2]=12.31    actual[3]=11.63  
+[1169720] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=11.50    actual[1]=12.13    actual[2]=12.31    actual[3]=11.63  
+[1179873] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=11.56    actual[1]=12.06    actual[2]=12.31    actual[3]=11.69  
+[1190026] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=11.56    actual[1]=12.06    actual[2]=12.31    actual[3]=11.69  
+[1200179] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=11.56    actual[1]=12.06    actual[2]=12.31    actual[3]=11.75  
+[1210296] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=11.56    actual[1]=12.06    actual[2]=12.31    actual[3]=11.75  
+[1220431] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=11.56    actual[1]=12.06    actual[2]=12.25    actual[3]=11.75  
+[1230567] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=11.63    actual[1]=12.06    actual[2]=12.31    actual[3]=11.81  
+[1240702] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=11.63    actual[1]=12.00    actual[2]=12.31    actual[3]=11.81  
+[1250838] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=11.63    actual[1]=12.06    actual[2]=12.31    actual[3]=11.81  
+[1260974] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=11.69    actual[1]=12.06    actual[2]=12.25    actual[3]=11.81  
+[1271111] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=11.69    actual[1]=12.06    actual[2]=12.25    actual[3]=11.81  
+[1281210] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=11.69    actual[1]=12.00    actual[2]=12.25    actual[3]=11.81  
+[1291335] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=11.69    actual[1]=12.00    actual[2]=12.25    actual[3]=11.81  
+[1301488] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=11.75    actual[1]=12.00    actual[2]=12.25    actual[3]=11.81  
+[1311641] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=11.75    actual[1]=12.00    actual[2]=12.25    actual[3]=11.81  
+[1321791] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=11.75    actual[1]=12.06    actual[2]=12.25    actual[3]=11.88  
+[1331929] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=11.81    actual[1]=12.00    actual[2]=12.25    actual[3]=11.88  
+[1342055] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=11.81    actual[1]=12.00    actual[2]=12.25    actual[3]=11.88  
+[1352179] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=11.81    actual[1]=12.00    actual[2]=12.25    actual[3]=11.88  
+[1362278] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=11.88    actual[1]=12.06    actual[2]=12.25    actual[3]=11.94  
+[1372375] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=11.88    actual[1]=12.06    actual[2]=12.25    actual[3]=11.94  
+[1382495] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=11.88    actual[1]=12.00    actual[2]=12.25    actual[3]=11.94  
+[1392632] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=11.88    actual[1]=12.06    actual[2]=12.25    actual[3]=11.94  
+[1402729] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=11.94    actual[1]=12.06    actual[2]=12.25    actual[3]=11.94  
+[1412881] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=11.94    actual[1]=12.06    actual[2]=12.25    actual[3]=11.94  
+[1423032] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=11.94    actual[1]=12.06    actual[2]=12.25    actual[3]=11.94  
+[1433156] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.00    actual[1]=12.06    actual[2]=12.25    actual[3]=12.00  
+[1443247] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=11.94    actual[1]=12.06    actual[2]=12.25    actual[3]=12.00  
+[1453386] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.00    actual[1]=12.06    actual[2]=12.25    actual[3]=12.00  
+[1463484] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.00    actual[1]=12.06    actual[2]=12.25    actual[3]=12.06  
+[1473582] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.06    actual[1]=12.06    actual[2]=12.25    actual[3]=12.06  
+[1483708] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.06    actual[1]=12.06    actual[2]=12.25    actual[3]=12.06  
+[1493862] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.06    actual[1]=12.06    actual[2]=12.25    actual[3]=12.06  
+[1503981] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.13    actual[1]=12.13    actual[2]=12.25    actual[3]=12.13  
+[1514124] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.13    actual[1]=12.13    actual[2]=12.25    actual[3]=12.13  
+[1524250] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.13    actual[1]=12.13    actual[2]=12.25    actual[3]=12.13  
+[1534348] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.13    actual[1]=12.13    actual[2]=12.31    actual[3]=12.13  
+[1544474] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.19    actual[1]=12.13    actual[2]=12.25    actual[3]=12.19  
+[1554573] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.19    actual[1]=12.13    actual[2]=12.25    actual[3]=12.19  
+[1564691] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.19    actual[1]=12.13    actual[2]=12.25    actual[3]=12.19  
+[1574836] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.19    actual[1]=12.13    actual[2]=12.25    actual[3]=12.19  
+[1584963] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.25    actual[1]=12.13    actual[2]=12.25    actual[3]=12.19  
+[1595090] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.25    actual[1]=12.19    actual[2]=12.25    actual[3]=12.19  
+[1605217] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.25    actual[1]=12.19    actual[2]=12.25    actual[3]=12.25  
+[1615344] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.25    actual[1]=12.19    actual[2]=12.25    actual[3]=12.25  
+[1625461] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.25    actual[1]=12.19    actual[2]=12.25    actual[3]=12.25  
+[1635607] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.31    actual[1]=12.19    actual[2]=12.25    actual[3]=12.25  
+[1645707] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.31    actual[1]=12.19    actual[2]=12.25    actual[3]=12.25  
+[1655837] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.31    actual[1]=12.19    actual[2]=12.25    actual[3]=12.31  
+[1665940] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.31    actual[1]=12.19    actual[2]=12.25    actual[3]=12.31  
+[1676044] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.38    actual[1]=12.19    actual[2]=12.25    actual[3]=12.31  
+[1686163] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.38    actual[1]=12.19    actual[2]=12.25    actual[3]=12.38  
+[1696284] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.38    actual[1]=12.19    actual[2]=12.25    actual[3]=12.38  
+[1706412] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.44    actual[1]=12.19    actual[2]=12.25    actual[3]=12.38  
+[1716510] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.44    actual[1]=12.25    actual[2]=12.25    actual[3]=12.38  
+[1726609] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.44    actual[1]=12.25    actual[2]=12.25    actual[3]=12.38  
+[1736735] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.44    actual[1]=12.25    actual[2]=12.25    actual[3]=12.38  
+[1746849] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.44    actual[1]=12.25    actual[2]=12.25    actual[3]=12.44  
+[1756919] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.50    actual[1]=12.25    actual[2]=12.25    actual[3]=12.38  
+[1766920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.50    actual[1]=12.25    actual[2]=12.25    actual[3]=12.44  
+[1776920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.50    actual[1]=12.25    actual[2]=12.25    actual[3]=12.44  
+[1786920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.50    actual[1]=12.25    actual[2]=12.25    actual[3]=12.44  
+[1796920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.50    actual[1]=12.31    actual[2]=12.25    actual[3]=12.44  
+[1806920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.56    actual[1]=12.31    actual[2]=12.25    actual[3]=12.50  
+[1816920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.56    actual[1]=12.31    actual[2]=12.25    actual[3]=12.50  
+[1826920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.56    actual[1]=12.31    actual[2]=12.25    actual[3]=12.50  
+[1836920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.56    actual[1]=12.31    actual[2]=12.19    actual[3]=12.50  
+[1851920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.56    actual[1]=12.31    actual[2]=12.25    actual[3]=12.50  
+[1861920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.63    actual[1]=12.31    actual[2]=12.25    actual[3]=12.50  
+[1876920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.63    actual[1]=12.31    actual[2]=12.25    actual[3]=12.56  
+[1886920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.63    actual[1]=12.38    actual[2]=12.25    actual[3]=12.56  
+[1896920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.63    actual[1]=12.31    actual[2]=12.25    actual[3]=12.56  
+[1906920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.63    actual[1]=12.31    actual[2]=12.25    actual[3]=12.56  
+[1916920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.69    actual[1]=12.38    actual[2]=12.25    actual[3]=12.56  
+[1926920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.69    actual[1]=12.38    actual[2]=12.25    actual[3]=12.56  
+[1936920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.69    actual[1]=12.38    actual[2]=12.25    actual[3]=12.56  
+[1946920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.69    actual[1]=12.38    actual[2]=12.25    actual[3]=12.63  
+[1956920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.69    actual[1]=12.38    actual[2]=12.25    actual[3]=12.63  
+[1966920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.75    actual[1]=12.38    actual[2]=12.25    actual[3]=12.63  
+[1976920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.75    actual[1]=12.38    actual[2]=12.25    actual[3]=12.63  
+[1981920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.75    actual[1]=12.44    actual[2]=12.25    actual[3]=12.63  
+[1991920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.75    actual[1]=12.44    actual[2]=12.25    actual[3]=12.63  
+[2001920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.75    actual[1]=12.44    actual[2]=12.25    actual[3]=12.63  
+[2011920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.75    actual[1]=12.44    actual[2]=12.25    actual[3]=12.63  
+[2021920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.81    actual[1]=12.44    actual[2]=12.25    actual[3]=12.69  
+[2031920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.75    actual[1]=12.44    actual[2]=12.25    actual[3]=12.69  
+[2041920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.81    actual[1]=12.44    actual[2]=12.25    actual[3]=12.69  
+[2051920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.81    actual[1]=12.44    actual[2]=12.25    actual[3]=12.69  
+[2061920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.81    actual[1]=12.50    actual[2]=12.25    actual[3]=12.69  
+[2071920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.88    actual[1]=12.50    actual[2]=12.25    actual[3]=12.69  
+[2081920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.88    actual[1]=12.44    actual[2]=12.25    actual[3]=12.75  
+[2091920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.81    actual[1]=12.50    actual[2]=12.25    actual[3]=12.75  
+[2106920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.88    actual[1]=12.50    actual[2]=12.25    actual[3]=12.75  
+[2116920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.88    actual[1]=12.50    actual[2]=12.25    actual[3]=12.75  
+[2126920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.88    actual[1]=12.50    actual[2]=12.25    actual[3]=12.75  
+[2136920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.88    actual[1]=12.50    actual[2]=12.25    actual[3]=12.75  
+[2146920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.88    actual[1]=12.50    actual[2]=12.25    actual[3]=12.75  
+[2156920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.88    actual[1]=12.56    actual[2]=12.25    actual[3]=12.75  
+[2166920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.94    actual[1]=12.56    actual[2]=12.25    actual[3]=12.81  
+[2176920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.94    actual[1]=12.56    actual[2]=12.25    actual[3]=12.81  
+[2186920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.88    actual[1]=12.56    actual[2]=12.25    actual[3]=12.81  
+[2196920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.94    actual[1]=12.56    actual[2]=12.25    actual[3]=12.81  
+[2206920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.94    actual[1]=12.56    actual[2]=12.25    actual[3]=12.88  
+[2216920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.94    actual[1]=12.56    actual[2]=12.25    actual[3]=12.81  
+[2226920] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=-1  allowed_heat_time=4519779  allowed_cool_time=1099779  target_temperature=12.30    actual[0]=12.94    actual[1]=12.56    actual[2]=12.25    actual[3]=12.81  
+[2236994] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=2536421  allowed_heat_time=5836914  allowed_cool_time=1099779  target_temperature=12.00    actual[0]=12.94    actual[1]=12.56    actual[2]=12.31    actual[3]=12.88  
+[2247091] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=2536421  allowed_heat_time=5847012  allowed_cool_time=1099779  target_temperature=11.30    actual[0]=12.94    actual[1]=12.56    actual[2]=12.25    actual[3]=12.88  
+[2257187] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=2536421  allowed_heat_time=5857108  allowed_cool_time=1099779  target_temperature=11.30    actual[0]=12.94    actual[1]=12.63    actual[2]=12.31    actual[3]=12.88  
+[2267286] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=2536421  allowed_heat_time=5867207  allowed_cool_time=1099779  target_temperature=11.30    actual[0]=13.00    actual[1]=12.63    actual[2]=12.25    actual[3]=12.81  
+[2277384] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=2536421  allowed_heat_time=5877305  allowed_cool_time=1099779  target_temperature=11.30    actual[0]=13.00    actual[1]=12.63    actual[2]=12.25    actual[3]=12.81  
+[2287495] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=2536421  allowed_heat_time=5887416  allowed_cool_time=1099779  target_temperature=11.30    actual[0]=13.00    actual[1]=12.63    actual[2]=12.31    actual[3]=12.81  
+[2297614] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=2536421  allowed_heat_time=5897535  allowed_cool_time=1099779  target_temperature=11.30    actual[0]=13.00    actual[1]=12.63    actual[2]=12.25    actual[3]=12.75  
+[2307710] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=2536421  allowed_heat_time=5907632  allowed_cool_time=1099779  target_temperature=11.30    actual[0]=13.00    actual[1]=12.63    actual[2]=12.25    actual[3]=12.75  
+[2317806] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=2536421  allowed_heat_time=5917727  allowed_cool_time=1099779  target_temperature=11.30    actual[0]=13.00    actual[1]=12.63    actual[2]=12.25    actual[3]=12.69  
+[2327929] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=2536421  allowed_heat_time=5927851  allowed_cool_time=1099779  target_temperature=11.30    actual[0]=12.94    actual[1]=12.56    actual[2]=12.25    actual[3]=12.63  
+[2338026] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=2536421  allowed_heat_time=5937947  allowed_cool_time=1099779  target_temperature=11.30    actual[0]=12.94    actual[1]=12.56    actual[2]=12.25    actual[3]=12.56  
+[2348136] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=2536421  allowed_heat_time=5948056  allowed_cool_time=1099779  target_temperature=11.30    actual[0]=12.88    actual[1]=12.56    actual[2]=12.25    actual[3]=12.56  
+[2358283] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=2536421  allowed_heat_time=5958204  allowed_cool_time=1099779  target_temperature=11.30    actual[0]=12.88    actual[1]=12.56    actual[2]=12.25    actual[3]=12.50  
+[2368379] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=2536421  allowed_heat_time=5968301  allowed_cool_time=1099779  target_temperature=11.30    actual[0]=12.81    actual[1]=12.56    actual[2]=12.25    actual[3]=12.50  
+[2378475] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=2536421  allowed_heat_time=5978396  allowed_cool_time=1099779  target_temperature=11.30    actual[0]=12.75    actual[1]=12.50    actual[2]=12.25    actual[3]=12.50  
+[2388572] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=2536421  allowed_heat_time=5988492  allowed_cool_time=1099779  target_temperature=11.30    actual[0]=12.69    actual[1]=12.50    actual[2]=12.25    actual[3]=12.44  
+[2398667] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=2536421  allowed_heat_time=5998588  allowed_cool_time=1099779  target_temperature=11.30    actual[0]=12.69    actual[1]=12.50    actual[2]=12.25    actual[3]=12.44  
+[2408760] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=2536421  allowed_heat_time=6008681  allowed_cool_time=1099779  target_temperature=11.30    actual[0]=12.63    actual[1]=12.50    actual[2]=12.25    actual[3]=12.44  
+[2418891] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=2536421  allowed_heat_time=6018812  allowed_cool_time=1099779  target_temperature=11.30    actual[0]=12.56    actual[1]=12.44    actual[2]=12.25    actual[3]=12.38  
+[2429026] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=2536421  allowed_heat_time=6028946  allowed_cool_time=1099779  target_temperature=11.30    actual[0]=12.50    actual[1]=12.44    actual[2]=12.25    actual[3]=12.38  
+[2439132] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=2536421  allowed_heat_time=6039053  allowed_cool_time=1099779  target_temperature=11.30    actual[0]=12.38    actual[1]=12.44    actual[2]=12.19    actual[3]=12.31  
+[2449265] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=2536421  allowed_heat_time=6049186  allowed_cool_time=1099779  target_temperature=11.30    actual[0]=12.31    actual[1]=12.44    actual[2]=12.25    actual[3]=12.25  
+[2459401] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=2536421  allowed_heat_time=6059322  allowed_cool_time=1099779  target_temperature=11.30    actual[0]=12.19    actual[1]=12.38    actual[2]=12.19    actual[3]=12.06  
+[2469534] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=2536421  allowed_heat_time=6069455  allowed_cool_time=1099779  target_temperature=11.30    actual[0]=12.13    actual[1]=12.38    actual[2]=12.19    actual[3]=11.94  
+[2479684] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=2536421  allowed_heat_time=6079605  allowed_cool_time=1099779  target_temperature=11.30    actual[0]=12.00    actual[1]=12.31    actual[2]=12.19    actual[3]=11.81  
+[2489835] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=2536421  allowed_heat_time=6089756  allowed_cool_time=1099779  target_temperature=11.30    actual[0]=11.94    actual[1]=12.31    actual[2]=12.25    actual[3]=11.75  
+[2499956] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=2536421  allowed_heat_time=6099877  allowed_cool_time=1099779  target_temperature=11.30    actual[0]=11.81    actual[1]=12.31    actual[2]=12.19    actual[3]=11.56  
+[2510107] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=2536421  allowed_heat_time=6110028  allowed_cool_time=1099779  target_temperature=11.30    actual[0]=11.69    actual[1]=12.25    actual[2]=12.19    actual[3]=11.38  
+[2520259] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=2536421  allowed_heat_time=6120180  allowed_cool_time=1099779  target_temperature=11.30    actual[0]=11.63    actual[1]=12.25    actual[2]=12.25    actual[3]=11.25  
+[2540490] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=2536421  allowed_heat_time=6140411  allowed_cool_time=1099779  target_temperature=11.30    actual[0]=11.38    actual[1]=12.19    actual[2]=12.19    actual[3]=10.94  
+[2550614] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=2536421  allowed_heat_time=6150535  allowed_cool_time=1099779  target_temperature=11.30    actual[0]=11.31    actual[1]=12.19    actual[2]=12.19    actual[3]=10.81  
+[2560710] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=2536421  allowed_heat_time=6160630  allowed_cool_time=1099779  target_temperature=11.30    actual[0]=11.13    actual[1]=12.13    actual[2]=12.19    actual[3]=10.63  
+[2570833] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=2536421  allowed_heat_time=6170754  allowed_cool_time=1099779  target_temperature=11.30    actual[0]=11.00    actual[1]=12.13    actual[2]=12.19    actual[3]=10.56  
+[2580932] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.88    actual[1]=12.06    actual[2]=12.19    actual[3]=10.38  
+[2591071] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.75    actual[1]=12.06    actual[2]=12.19    actual[3]=10.31  
+[2601171] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.63    actual[1]=12.00    actual[2]=12.25    actual[3]=10.25  
+[2611273] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.56    actual[1]=12.00    actual[2]=12.19    actual[3]=10.19  
+[2621375] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.50    actual[1]=11.94    actual[2]=12.19    actual[3]=10.25  
+[2631476] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.44    actual[1]=11.94    actual[2]=12.19    actual[3]=10.19  
+[2641570] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.38    actual[1]=11.88    actual[2]=12.19    actual[3]=10.25  
+[2651681] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.31    actual[1]=11.88    actual[2]=12.19    actual[3]=10.25  
+[2661778] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.31    actual[1]=11.81    actual[2]=12.19    actual[3]=10.25  
+[2671875] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.31    actual[1]=11.81    actual[2]=12.19    actual[3]=10.31  
+[2681971] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.31    actual[1]=11.75    actual[2]=12.19    actual[3]=10.31  
+[2692096] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.25    actual[1]=11.75    actual[2]=12.13    actual[3]=10.31  
+[2702215] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.25    actual[1]=11.69    actual[2]=12.13    actual[3]=10.38  
+[2712352] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.25    actual[1]=11.69    actual[2]=12.13    actual[3]=10.38  
+[2722449] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.25    actual[1]=11.63    actual[2]=12.13    actual[3]=10.44  
+[2732545] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.31    actual[1]=11.63    actual[2]=12.13    actual[3]=10.44  
+[2747691] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.31    actual[1]=11.56    actual[2]=12.13    actual[3]=10.50  
+[2757787] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.38    actual[1]=11.56    actual[2]=12.13    actual[3]=10.50  
+[2767872] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.31    actual[1]=11.56    actual[2]=12.13    actual[3]=10.56  
+[2777994] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.38    actual[1]=11.50    actual[2]=12.13    actual[3]=10.63  
+[2788093] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.44    actual[1]=11.50    actual[2]=12.13    actual[3]=10.63  
+[2798192] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.44    actual[1]=11.50    actual[2]=12.13    actual[3]=10.69  
+[2808291] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.44    actual[1]=11.50    actual[2]=12.13    actual[3]=10.69  
+[2818390] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.50    actual[1]=11.50    actual[2]=12.13    actual[3]=10.75  
+[2828474] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.50    actual[1]=11.44    actual[2]=12.13    actual[3]=10.75  
+[2838598] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.50    actual[1]=11.44    actual[2]=12.13    actual[3]=10.81  
+[2848598] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.56    actual[1]=11.44    actual[2]=12.13    actual[3]=10.81  
+[2858598] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.56    actual[1]=11.44    actual[2]=12.06    actual[3]=10.88  
+[2868598] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.63    actual[1]=11.44    actual[2]=12.06    actual[3]=10.88  
+[2878599] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.63    actual[1]=11.44    actual[2]=12.06    actual[3]=10.94  
+[2888599] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.63    actual[1]=11.44    actual[2]=12.13    actual[3]=10.94  
+[2898599] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.69    actual[1]=11.38    actual[2]=12.06    actual[3]=11.00  
+[2908599] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.69    actual[1]=11.44    actual[2]=12.13    actual[3]=11.00  
+[2918599] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.75    actual[1]=11.38    actual[2]=12.06    actual[3]=11.00  
+[2928599] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.75    actual[1]=11.38    actual[2]=12.06    actual[3]=11.06  
+[2938599] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.75    actual[1]=11.44    actual[2]=12.06    actual[3]=11.06  
+[2948599] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.81    actual[1]=11.44    actual[2]=12.06    actual[3]=11.13  
+[2958600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.81    actual[1]=11.44    actual[2]=12.06    actual[3]=11.13  
+[2968600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.81    actual[1]=11.38    actual[2]=12.06    actual[3]=11.13  
+[2978600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.81    actual[1]=11.38    actual[2]=12.06    actual[3]=11.13  
+[2988600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.88    actual[1]=11.38    actual[2]=12.06    actual[3]=11.19  
+[2998600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.88    actual[1]=11.44    actual[2]=12.06    actual[3]=11.19  
+[3008600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.88    actual[1]=11.44    actual[2]=12.06    actual[3]=11.25  
+[3018600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.94    actual[1]=11.44    actual[2]=12.06    actual[3]=11.25  
+[3028600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.94    actual[1]=11.44    actual[2]=12.06    actual[3]=11.25  
+[3038600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.94    actual[1]=11.44    actual[2]=12.06    actual[3]=11.25  
+[3048600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.00    actual[1]=11.44    actual[2]=12.06    actual[3]=11.31  
+[3058600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.00    actual[1]=11.44    actual[2]=12.06    actual[3]=11.31  
+[3068600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.00    actual[1]=11.44    actual[2]=12.06    actual[3]=11.31  
+[3078600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.00    actual[1]=11.44    actual[2]=12.06    actual[3]=11.31  
+[3088600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.06    actual[1]=11.44    actual[2]=12.06    actual[3]=11.31  
+[3098600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.06    actual[1]=11.50    actual[2]=12.06    actual[3]=11.38  
+[3108600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.13    actual[1]=11.50    actual[2]=12.06    actual[3]=11.38  
+[3118600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.13    actual[1]=11.50    actual[2]=12.06    actual[3]=11.38  
+[3128600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.13    actual[1]=11.50    actual[2]=12.06    actual[3]=11.38  
+[3138600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.13    actual[1]=11.50    actual[2]=12.06    actual[3]=11.38  
+[3148600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.13    actual[1]=11.50    actual[2]=12.06    actual[3]=11.44  
+[3158600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.19    actual[1]=11.50    actual[2]=12.06    actual[3]=11.44  
+[3168600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.19    actual[1]=11.50    actual[2]=12.06    actual[3]=11.44  
+[3178600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.19    actual[1]=11.50    actual[2]=12.06    actual[3]=11.44  
+[3188600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.25    actual[1]=11.56    actual[2]=12.06    actual[3]=11.50  
+[3198600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.25    actual[1]=11.56    actual[2]=12.06    actual[3]=11.44  
+[3208600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.25    actual[1]=11.56    actual[2]=12.06    actual[3]=11.50  
+[3218600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.25    actual[1]=11.56    actual[2]=12.06    actual[3]=11.50  
+[3228600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.31    actual[1]=11.56    actual[2]=12.06    actual[3]=11.50  
+[3238600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.31    actual[1]=11.56    actual[2]=12.06    actual[3]=11.56  
+[3248600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.31    actual[1]=11.56    actual[2]=12.06    actual[3]=11.56  
+[3258600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.38    actual[1]=11.56    actual[2]=12.06    actual[3]=11.56  
+[3268600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.31    actual[1]=11.63    actual[2]=12.06    actual[3]=11.56  
+[3278600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.38    actual[1]=11.63    actual[2]=12.06    actual[3]=11.63  
+[3288600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.38    actual[1]=11.63    actual[2]=12.06    actual[3]=11.56  
+[3298600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.38    actual[1]=11.63    actual[2]=12.06    actual[3]=11.63  
+[3308600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.44    actual[1]=11.63    actual[2]=12.06    actual[3]=11.63  
+[3318600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.44    actual[1]=11.63    actual[2]=12.06    actual[3]=11.63  
+[3328600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.44    actual[1]=11.63    actual[2]=12.06    actual[3]=11.69  
+[3338600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.44    actual[1]=11.63    actual[2]=12.06    actual[3]=11.63  
+[3348600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.44    actual[1]=11.69    actual[2]=12.06    actual[3]=11.69  
+[3358600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.50    actual[1]=11.63    actual[2]=12.06    actual[3]=11.69  
+[3368600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.50    actual[1]=11.69    actual[2]=12.06    actual[3]=11.69  
+[3378600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.50    actual[1]=11.69    actual[2]=12.00    actual[3]=11.69  
+[3388600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.56    actual[1]=11.69    actual[2]=12.06    actual[3]=11.69  
+[3398600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.50    actual[1]=11.69    actual[2]=12.06    actual[3]=11.69  
+[3403600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.56    actual[1]=11.69    actual[2]=12.00    actual[3]=11.75  
+[3413600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.56    actual[1]=11.69    actual[2]=12.06    actual[3]=11.75  
+[3423600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.56    actual[1]=11.69    actual[2]=12.06    actual[3]=11.75  
+[3433600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.56    actual[1]=11.75    actual[2]=12.06    actual[3]=11.75  
+[3443600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.63    actual[1]=11.75    actual[2]=12.06    actual[3]=11.75  
+[3453600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.63    actual[1]=11.75    actual[2]=12.00    actual[3]=11.81  
+[3463600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.63    actual[1]=11.75    actual[2]=12.06    actual[3]=11.81  
+[3473600] current_mode=IDLE     desired_mode=IDLE     allowed_idle_time=2536421  allowed_heat_time=6174869  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.63    actual[1]=11.75    actual[2]=12.06    actual[3]=11.81  
+[3483600] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=3782598  allowed_heat_time=7083599  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.69    actual[1]=11.75    actual[2]=12.06    actual[3]=11.81  
+[3493600] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=3782598  allowed_heat_time=7093599  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.69    actual[1]=11.81    actual[2]=12.06    actual[3]=11.81  
+[3503600] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=3782598  allowed_heat_time=7103599  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.69    actual[1]=11.75    actual[2]=12.06    actual[3]=11.81  
+[3513600] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=3782598  allowed_heat_time=7113598  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.69    actual[1]=11.81    actual[2]=12.00    actual[3]=11.75  
+[3523600] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=3782598  allowed_heat_time=7123599  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.69    actual[1]=11.75    actual[2]=12.00    actual[3]=11.69  
+[3533600] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=3782598  allowed_heat_time=7133600  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.63    actual[1]=11.75    actual[2]=12.06    actual[3]=11.63  
+[3543600] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=3782598  allowed_heat_time=7143599  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.63    actual[1]=11.75    actual[2]=12.06    actual[3]=11.63  
+[3558600] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=3782598  allowed_heat_time=7158599  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.56    actual[1]=11.75    actual[2]=12.00    actual[3]=11.69  
+[3568600] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=3782598  allowed_heat_time=7168599  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.56    actual[1]=11.75    actual[2]=12.00    actual[3]=11.63  
+[3578600] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=3782598  allowed_heat_time=7178599  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.50    actual[1]=11.75    actual[2]=12.00    actual[3]=11.63  
+[3588600] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=3782598  allowed_heat_time=7188599  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.50    actual[1]=11.75    actual[2]=12.06    actual[3]=11.63  
+[3598600] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=3782598  allowed_heat_time=7198599  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.38    actual[1]=11.75    actual[2]=12.06    actual[3]=11.63  
+[3613600] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=3782598  allowed_heat_time=7213600  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.31    actual[1]=11.69    actual[2]=12.06    actual[3]=11.56  
+[3623600] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=3782598  allowed_heat_time=7223599  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.25    actual[1]=11.69    actual[2]=12.00    actual[3]=11.56  
+[3633600] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=3782598  allowed_heat_time=7233599  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.19    actual[1]=11.69    actual[2]=12.00    actual[3]=11.50  
+[3643600] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=3782598  allowed_heat_time=7243599  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.13    actual[1]=11.69    actual[2]=12.00    actual[3]=11.38  
+[3653600] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=3782598  allowed_heat_time=7253599  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.00    actual[1]=11.69    actual[2]=11.94    actual[3]=11.19  
+[3663600] current_mode=COOLING  desired_mode=COOLING  allowed_idle_time=3782598  allowed_heat_time=7263599  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=11.00    actual[1]=11.63    actual[2]=12.00    actual[3]=11.06  
+[3673600] current_mode=COOLING  desired_mode=IDLE     allowed_idle_time=3782598  allowed_heat_time=7273598  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.88    actual[1]=11.63    actual[2]=12.00    actual[3]=10.94  
+[3678600] current_mode=COOLING  desired_mode=IDLE     allowed_idle_time=3782598  allowed_heat_time=7278599  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.81    actual[1]=11.63    actual[2]=12.00    actual[3]=10.81  
+[3688600] current_mode=COOLING  desired_mode=IDLE     allowed_idle_time=3782598  allowed_heat_time=7288599  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.75    actual[1]=11.63    actual[2]=12.00    actual[3]=10.69  
+[3698600] current_mode=COOLING  desired_mode=IDLE     allowed_idle_time=3782598  allowed_heat_time=7298599  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.63    actual[1]=11.63    actual[2]=12.00    actual[3]=10.63  
+[3708600] current_mode=COOLING  desired_mode=IDLE     allowed_idle_time=3782598  allowed_heat_time=7308599  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.56    actual[1]=11.56    actual[2]=12.00    actual[3]=10.44  
+[3718600] current_mode=COOLING  desired_mode=IDLE     allowed_idle_time=3782598  allowed_heat_time=7318600  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.44    actual[1]=11.56    actual[2]=11.94    actual[3]=10.31  
+[3728600] current_mode=COOLING  desired_mode=IDLE     allowed_idle_time=3782598  allowed_heat_time=7328600  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.31    actual[1]=11.56    actual[2]=12.00    actual[3]=10.19  
+[3738600] current_mode=COOLING  desired_mode=HEATING  allowed_idle_time=3782598  allowed_heat_time=7338599  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.25    actual[1]=11.50    actual[2]=11.94    actual[3]=10.06  
+[3748600] current_mode=COOLING  desired_mode=HEATING  allowed_idle_time=3782598  allowed_heat_time=7348600  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.13    actual[1]=11.50    actual[2]=11.94    actual[3]=10.00  
+[3758600] current_mode=COOLING  desired_mode=HEATING  allowed_idle_time=3782598  allowed_heat_time=7358599  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=10.00    actual[1]=11.44    actual[2]=11.94    actual[3]=9.81  
+[3768600] current_mode=COOLING  desired_mode=HEATING  allowed_idle_time=3782598  allowed_heat_time=7368599  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=9.94    actual[1]=11.44    actual[2]=11.94    actual[3]=9.69  
+[3793600] current_mode=COOLING  desired_mode=HEATING  allowed_idle_time=3782598  allowed_heat_time=7393599  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=9.63    actual[1]=11.31    actual[2]=11.94    actual[3]=9.44  
+[3803600] current_mode=COOLING  desired_mode=HEATING  allowed_idle_time=3782598  allowed_heat_time=7403599  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=9.50    actual[1]=11.31    actual[2]=11.94    actual[3]=9.31  
+[3813600] current_mode=COOLING  desired_mode=HEATING  allowed_idle_time=3782598  allowed_heat_time=7413600  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=9.38    actual[1]=11.25    actual[2]=11.94    actual[3]=9.31  
+[3823600] current_mode=COOLING  desired_mode=HEATING  allowed_idle_time=3782598  allowed_heat_time=7423599  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=9.25    actual[1]=11.25    actual[2]=11.94    actual[3]=9.31  
+[3833600] current_mode=COOLING  desired_mode=HEATING  allowed_idle_time=3782598  allowed_heat_time=7433598  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=9.13    actual[1]=11.19    actual[2]=11.94    actual[3]=9.19  
+[3843600] current_mode=COOLING  desired_mode=HEATING  allowed_idle_time=3782598  allowed_heat_time=7443600  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=9.00    actual[1]=11.13    actual[2]=11.94    actual[3]=9.06  
+[3853600] current_mode=COOLING  desired_mode=HEATING  allowed_idle_time=3782598  allowed_heat_time=7453599  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=8.88    actual[1]=11.06    actual[2]=11.94    actual[3]=9.00  
+[3863600] current_mode=COOLING  desired_mode=HEATING  allowed_idle_time=3782598  allowed_heat_time=7463599  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=8.81    actual[1]=11.00    actual[2]=11.88    actual[3]=8.94  
+[3873600] current_mode=COOLING  desired_mode=HEATING  allowed_idle_time=3782598  allowed_heat_time=7473599  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=8.69    actual[1]=11.00    actual[2]=11.88    actual[3]=8.88  
+[3883600] current_mode=COOLING  desired_mode=HEATING  allowed_idle_time=3782598  allowed_heat_time=7483599  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=8.56    actual[1]=10.94    actual[2]=11.88    actual[3]=8.75  
+[3898600] current_mode=COOLING  desired_mode=HEATING  allowed_idle_time=3782598  allowed_heat_time=7498599  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=8.38    actual[1]=10.88    actual[2]=11.88    actual[3]=8.63  
+[3908600] current_mode=COOLING  desired_mode=HEATING  allowed_idle_time=3782598  allowed_heat_time=7508599  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=8.25    actual[1]=10.81    actual[2]=11.88    actual[3]=8.50  
+[3918600] current_mode=COOLING  desired_mode=HEATING  allowed_idle_time=3782598  allowed_heat_time=7518599  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=8.13    actual[1]=10.75    actual[2]=11.88    actual[3]=8.38  
+[3928600] current_mode=COOLING  desired_mode=HEATING  allowed_idle_time=3782598  allowed_heat_time=7528599  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=8.00    actual[1]=10.69    actual[2]=11.81    actual[3]=8.25  
+[3938600] current_mode=COOLING  desired_mode=HEATING  allowed_idle_time=3782598  allowed_heat_time=7538600  allowed_cool_time=2754869  target_temperature=11.30    actual[0]=7.88    actual[1]=10.69    actual[2]=11.81    actual[3]=8.19  
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0
+/home/peter/bin/ttylog: invalid device /dev/ttyACM0

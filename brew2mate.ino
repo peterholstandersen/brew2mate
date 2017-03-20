@@ -25,7 +25,11 @@
 
 #define TEMPERATURE_TOLERANCE   0.5f
 
+#if TEST_MODE
+#define START_UP_DELAY          ONE_HOUR
+#else
 #define START_UP_DELAY          ONE_MINUTE
+#endif
 
 #define MINIMUM_IDLE_TIME       THREE_MINUTES
 #define MINIMUM_HEAT_TIME       FIFTEEN_MINUTES

@@ -17,9 +17,7 @@ uint8_t probe4 = 10;
 
 float get_actual_temperature() {
   // return actual_temperatures[TEMPERATURE_PROBE_INDEX];
-  float probe1 = actual_temperatures[1];
-  float probe3 = actual_temperatures[3];
-  return (probe1 + probe2) / 2.0;
+  return (actual_temperatures[1] + actual_temperatures[3]) / 2.0;
 }
 
 void setup_one_wire() {
