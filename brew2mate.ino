@@ -33,8 +33,8 @@
 #define START_UP_DELAY          ONE_MINUTE
 #endif
 
-#define MINIMUM_IDLE_TIME       THREE_MINUTES
-#define MINIMUM_HEAT_TIME       FIFTEEN_MINUTES
+#define MINIMUM_IDLE_TIME       TEN_MINUTES
+#define MINIMUM_HEAT_TIME       FIVE_MINUTES
 #define MINIMUM_COOL_TIME       FIVE_MINUTES
 
 // Time between switching from cooling to heating and vise versa

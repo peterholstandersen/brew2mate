@@ -1,27 +1,19 @@
 Test
 ----
 
-Consider room temperature on test start
-
-bMeasure temperature on tank surface (calibrate first)
-
-
 Backlog
 -------
 
-Print new params
+Alarm (low/high)
+Sensor fail alarm
 
-Account for flukes reading
-
-Calibrate sensors
+Account for fluke readings
+- Wait for a stable reading (i.e., within a small range for a while)
+- Only allow for minor changes per measurement
+  . For example, 0.1 => will take 10sec to record a 1.0 degree change
+- Average of multiple probes
 
 Log prints actual time (fix log.sh)
-
-Testmode (allow setting target temp) + log changes of target temp.
-
-Restart of brew2mate optional when starting to log
-
-Suspend mode (starts up in this mode when testing)
 
 Blink between desired and current mode
 
@@ -34,27 +26,19 @@ Commands from "controller" TO brew2mate:
 
 Detect open opened/closed
 
-Clear indication of "mode"
+Suspend fan on open door
 
 Afskærmning
-alarm (low/high) -- requires WiFi
-sensor fail alarm
 
 Errors
 ------
 
 Max is set to 85C
 
-Turn on/off on restart
-
-Unplugging lightbuild caused PC to shutdown.
+Unplugging lightbulb caused PC to shutdown.
 
 Permissions to /dev/ttyACM0 may be lost
 
 Killing log.sh does not kill ttylog
 
-At target 20.0 at actyal 16.2 blinking COOLING at startup.
-Clicking "change now" results in HEATING.
-
 Display goes haywire
-
