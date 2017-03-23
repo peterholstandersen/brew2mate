@@ -1,18 +1,8 @@
 Test
 ----
 
-Measure fridge normal cycle
-
-Measure and record probe placement
-- ambient inside x2
-- ambient outside
-- tank
-
-
 Backlog
 -------
-
-Shorter on time, longer off time
 
 Alarm (low/high)
 Sensor fail alarm
@@ -24,8 +14,6 @@ Account for fluke readings
 - Average of multiple probes
 
 Log prints actual time (fix log.sh)
-
-Restart of brew2mate optional when starting to log
 
 Blink between desired and current mode
 
