@@ -1,9 +1,9 @@
 Test
 ----
 
-Consider room temperature on test start
+Measure fridge normal cycle
 
-Measure
+Measure and record probe placement
 - ambient inside x2
 - ambient outside
 - tank
@@ -17,11 +17,11 @@ Shorter on time, longer off time
 Alarm (low/high)
 Sensor fail alarm
 
-Print new params
-
 Account for fluke readings
-
-Calibrate sensors
+- Wait for a stable reading (i.e., within a small range for a while)
+- Only allow for minor changes per measurement
+  . For example, 0.1 => will take 10sec to record a 1.0 degree change
+- Average of multiple probes
 
 Log prints actual time (fix log.sh)
 

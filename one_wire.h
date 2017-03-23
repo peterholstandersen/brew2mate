@@ -1,6 +1,5 @@
 // ==== 1-wire =================================================================================
 
-#define TEMPERATURE_PROBE_INDEX    0
 #define ONE_WIRE_PIN               2
 #define TEMPERATURE_PRECISION     12
 
@@ -16,7 +15,6 @@ uint8_t probe3 = 10;
 uint8_t probe4 = 10;
 
 float get_actual_temperature() {
-  // return actual_temperatures[TEMPERATURE_PROBE_INDEX];
   return (actual_temperatures[1] + actual_temperatures[3]) / 2.0;
 }
 
