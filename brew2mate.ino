@@ -44,7 +44,7 @@
 #if !TEST_MODE
 const
 #endif
-float target_temperature = 12.7;
+float target_temperature = 76.0;
 
 float min_temperature = 99.9;
 float max_temperature = 00.0;
