@@ -42,6 +42,7 @@ void setup_one_wire() {
 }
 
 void loop_one_wire() {
+  static bool first_reading = true;
   static long next_one_wire_time = -1;
   const long one_wire_interval = 1000;
   
@@ -55,12 +56,18 @@ void loop_one_wire() {
   
   for (uint8_t i = 0; i < deviceCount; i++) {
     temperature = sensors.getTempC(deviceAddress[i]);
-  
+
+    // Avoid initial freak reading
+    if (first_reading)
+      continue;
+    
     // A faulty reading is typically -127.0C. Only keep most sensible readings.
     if (-10.0 <= temperature && temperature <= 110.0) {
       actual_temperatures[i] = temperature;
     }
   }
+
+  first_reading = false;
 
   // Requests temperatures (will take up to 750ms to be ready).
   // However, the call below is not blocking, but relies on the this function not being
