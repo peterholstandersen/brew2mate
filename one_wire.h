@@ -15,7 +15,7 @@ uint8_t probe3 = 10;
 uint8_t probe4 = 10;
 
 float get_actual_temperature() {
-  return (actual_temperatures[1] + actual_temperatures[3]) / 2.0;
+  return (actual_temperatures[PROBE_INDEX1] + actual_temperatures[PROBE_INDEX2]) / 2.0;
 }
 
 void setup_one_wire() {
@@ -57,7 +57,7 @@ void loop_one_wire() {
     temperature = sensors.getTempC(deviceAddress[i]);
   
     // A faulty reading is typically -127.0C. Only keep most sensible readings.
-    if (0.0 <= temperature && temperature <= 110.0) {
+    if (-10.0 <= temperature && temperature <= 110.0) {
       actual_temperatures[i] = temperature;
     }
   }

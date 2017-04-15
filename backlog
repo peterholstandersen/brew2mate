@@ -1,8 +1,13 @@
 Test
 ----
 
+Log room temperature
+
+
 Backlog
 -------
+
+Print probe indices at startup
 
 Alarm (low/high)
 Sensor fail alarm
@@ -17,8 +22,6 @@ Log prints actual time (fix log.sh)
 
 Blink between desired and current mode
 
-Print probe assignment at startup
-
 Commands from "controller" TO brew2mate:
 - set target temp
 - request log entry
@@ -28,7 +31,14 @@ Detect open opened/closed
 
 Suspend fan on open door
 
+Live graph
+
 Afskærmning
+
+Repeat on buttons
+
+Cycle through actuals
+
 
 Errors
 ------
