@@ -5,11 +5,12 @@ cat $@ |\
     grep actual |\
     sed 's/actual\[.\]=//g' |\
     sed 's/target_temperature=//g' |\
-    awk 'BEGIN{ count = 0;}{ print count++, $0;}' > /tmp/to_plot
+    awk 'BEGIN{ count = 0;}{ print count++, $0;}' |\
+    ./avg.py > /tmp/to_plot
 
 gnuplot > /tmp/graph.png <<FOO
 set terminal png
-set yrange [12:14]
+set yrange [7:14]
 plot "/tmp/to_plot" using 3 with line title "actual[0]",\
      "/tmp/to_plot" using 4 with line title "actual[1]",\
      "/tmp/to_plot" using 5 with line title "actual[2]",\
