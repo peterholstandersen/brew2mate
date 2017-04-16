@@ -1,6 +1,9 @@
 Test
 ----
 
+Log room temperature
+
+
 Backlog
 -------
 
@@ -21,8 +24,6 @@ Mount temperature sensor on stir plate / fermentation tank
 
 Blink between desired and current mode
 
-Print probe assignment at startup
-
 Commands from "controller" TO brew2mate:
 - set target temp
 - request log entry
@@ -32,7 +33,14 @@ Detect open opened/closed
 
 Suspend fan on open door
 
+Live graph
+
 Afskærmning
+
+Repeat on buttons
+
+Cycle through actuals
+
 
 Errors
 ------

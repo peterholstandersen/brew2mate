@@ -25,6 +25,9 @@
 #define HEATING 2
 #define COOLING 3
 
+#define PROBE_INDEX1		1
+#define PROBE_INDEX2		2
+
 #define TEMPERATURE_TOLERANCE   0.5f
 
 #if TEST_MODE
@@ -94,9 +97,7 @@ void setup() {
   setup_relays();
   setup_display();
 
-#ifdef TESTMODE
-  restore_data();
-#endif
+  // restore_data();
 }
 
 void loop() {
@@ -104,8 +105,6 @@ void loop() {
   loop_one_wire();
   log_status();
   loop_logic();
-#ifdef TESTMODE
-  loop_eeprom();
-#endif
+  // loop_eeprom();
   display_status();
 }
