@@ -4,8 +4,9 @@ Test
 Backlog
 -------
 
-Alarm (low/high)
-Sensor fail alarm
+Ensure that log.sh is running as root.
+
+Alarm (low/high/sensor fail)
 
 Account for fluke readings
 - Wait for a stable reading (i.e., within a small range for a while)
@@ -14,6 +15,9 @@ Account for fluke readings
 - Average of multiple probes
 
 Log prints actual time (fix log.sh)
+
+
+Mount temperature sensor on stir plate / fermentation tank
 
 Blink between desired and current mode
 
