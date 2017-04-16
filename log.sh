@@ -1,6 +1,8 @@
 #!/bin/bash
 
-# chmod 0666 /dev/ttyACM0
+# SKAL KOERE SOM ROOT!
+
+chmod 0666 /dev/ttyACM0
 
 while [ true ]; do
     stty -F /dev/ttyACM0 -hupcl
