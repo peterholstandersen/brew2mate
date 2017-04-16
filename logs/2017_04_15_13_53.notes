@@ -1,0 +1,16 @@
+Test of room temperature heated by radiator for bock starter.
+probe 0,1,2 på bordet open på tom papkasse
+probe 3 i vindueskammen. Udetemp kl 14:00, 15/4: 5C. Vejrudsigt lover nattefrost. p.t. frisk vind.
+Radiator indstillet på 2.5. Placeret ved midten af bordet. 50cm ude.
+10894972  15-04-2017  17:00  skruet op til 3 på radiatoren
+18074020  15-04-2017  18:55  skruet op på 3.5. Yeast 9-13C. Ferm target 10C. Starter target 11-12C.
+Room target (day): 12C.
+21210356  15-04-2017  19:48  Ned på 3 igen
+27135899  15-04-2017  21:26  Gærstarter sat over. Verificeret digital term viser ca. 10 hvor ds18.. viser 12
+
+Digital term viser 10.7 på ydersiden af kolben
+Prober placeret tæt ved kolben (ved bunden)
+
+Mistet adgang til /dev/ttyACM0 i løbet af natten. Måler 13C kl. 7:00 d. 16/4.
+
+Der bløbbes iøvrigt

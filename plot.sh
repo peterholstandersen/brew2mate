@@ -9,8 +9,7 @@ cat $@ |\
 
 gnuplot > /tmp/graph.png <<EOF
 set terminal png
-plot "/tmp/to_plot" using 2 with line title "target",\
-     "/tmp/to_plot" using 3 with line title "actual[0]",\
+plot "/tmp/to_plot" using 3 with line title "actual[0]",\
      "/tmp/to_plot" using 4 with line title "actual[1]",\
      "/tmp/to_plot" using 5 with line title "actual[2]",\
      "/tmp/to_plot" using 6 with line title "actual[3]"
