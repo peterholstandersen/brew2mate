@@ -1,0 +1,2 @@
+2017-04-23 16:17  Gæring! Radiator sat på 2.5. Prober 0,1,2 klistret til tanken.
+                  Probe 3 til FFT.

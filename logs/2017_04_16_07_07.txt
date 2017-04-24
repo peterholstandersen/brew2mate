@@ -1,0 +1,16 @@
+16-04-2017 07:07  Startet igen. Start room temp 13C. Udetemp 0C. Radiator skuret ned til 2.5.
+16-04-2017 10:00  Skruet ned til 2 på radiator. Skiftet gærlås med sølvpapir.
+                  Prober faldt end på bordet. Nu ligger probe 0 på bordet.
+		  Solskin og vindstille udenfor. Nattemperatur ude var 0C eller mindre.
+16-04-2017 11:41  Skruet ned til 1.5. Skiftet tilbage til gærlås for at afgøre hvornår ferm starter.
+16-04-2017 15:15  Udetemp relativ lav (5C?). Høj sol. Indetemp 13.5C ish.
+16-04-2017 19:21  Tændt køleskab og placeret probe 0 i det. Radiator stadig på 1.5.
+                  Rum temp ca. 14C. Lufter lidt ud. Udetemp <5C.
+16-04-2017 21:00  Ca. 1 min mellem bløbs. Skruet ned til 1. I on. II off. Slukket køleskab igen. Indetemp nu 13.5C
+17-04-2017 06:30  Ca. 1 min mellem bløbs. Udetemp ca. 0C over natten. Radiatior sandsynligvis ikke tændt under natten.
+                  Indetemp nu 12C. Slukket radiator helt.
+17-04-2017 17:00  ca 45-46 sec mellem bløbs. ca. 12C
+18-04-2017 08:00  ca 45-60 sec mellem bløbs. ca. 10C
+19-04-2017 09:00  9.3C. Radiator sat til 2.5. Høj sol. Ingen vind. Koldt ude.
+19-04-2017 13:13  10.7C. Radiator sat til 1.5.
+21-04-2017 09:15  Omrører stoppet. Kolbe sat på bordet. Gråvejr. Frisk vind.

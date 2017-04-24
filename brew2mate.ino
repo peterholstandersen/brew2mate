@@ -8,7 +8,7 @@
 
 // ==== "Global" parameters and variables =====================================================
 
-#define TEST_MODE true
+#define TEST_MODE false
 
 #define ONE_SECOND              1000L
 #define ONE_MINUTE              (60L * ONE_SECOND)
@@ -33,7 +33,7 @@
 #if TEST_MODE
 #define START_UP_DELAY          NEVERISH
 #else
-#define START_UP_DELAY          ONE_MINUTE
+#define START_UP_DELAY          FIVE_MINUTES
 #endif
 
 #define MINIMUM_IDLE_TIME       TEN_MINUTES
@@ -47,7 +47,7 @@
 #if !TEST_MODE
 const
 #endif
-float target_temperature = 76.0;
+float target_temperature = 11.0;
 
 float min_temperature = 99.9;
 float max_temperature = 00.0;

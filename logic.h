@@ -20,6 +20,9 @@ void key2_event() {
   allowed_idle_time = -1;
   allowed_heat_time = -1;
   allowed_cool_time = -1;
+  // Reset min/max
+  min_temperature = 99.9;
+  max_temperature = 0.0;
 }
 
 // For key3-key6:
