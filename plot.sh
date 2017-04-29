@@ -12,7 +12,7 @@ cat $@ |\
 
 gnuplot > /tmp/graph.png <<FOO
 set terminal png
-set yrange [8:20]
+set yrange [8:16]
 plot \
      "/tmp/to_plot" using 3 with line title "actual[0]",\
      "/tmp/to_plot" using 4 with line title "actual[1]",\

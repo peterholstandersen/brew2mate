@@ -1,0 +1,1 @@
+2017-04-24 14:00  Sat target temp til 10.5. Skulle defacto give 11. FFT 13C. Rad skruet op fra 2.5 til 3.
