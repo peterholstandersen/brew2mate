@@ -1,1 +1,2 @@
 2017-04-24 14:00  Sat target temp til 10.5. Skulle defacto give 11. FFT 13C. Rad skruet op fra 2.5 til 3.
+2017-05-13 07:30  Prober 0 & 2 var faldet af. Sat dem på igen.
