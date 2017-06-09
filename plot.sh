@@ -6,6 +6,7 @@ cat $@ |\
     sed 's/actual\[.\]=//g' |\
     sed 's/target_temperature=//g' |\
     awk 'BEGIN{ count = 0;}{ print count++, $0;}' \
+    | ./sample.py \
     | ./avg.py \
     > /tmp/to_plot
 

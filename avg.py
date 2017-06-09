@@ -9,7 +9,7 @@ for line in sys.stdin:
     split = line.split(" ")
     data.append(tuple((split)))
 
-avg = 10
+avg = 50
     
 # i iterates over the tupples
 for i in range(0, len(data)):

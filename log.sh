@@ -1,7 +1,10 @@
 #!/bin/bash
 
-# SKAL KOERE SOM ROOT!
-
+if [ ! $EUID == "0" ] then
+   echo Must run as root
+   exit
+fi
+	
 chmod 0666 /dev/ttyACM0
 
 while [ true ]; do

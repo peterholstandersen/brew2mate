@@ -1,16 +1,3 @@
-Test
-----
-
-Log room temperature
-
-
-Backlog
--------
-
-Ensure that log.sh is running as root.
-
-Alarm (low/high/sensor fail)
-
 Account for fluke readings
 - Wait for a stable reading (i.e., within a small range for a while)
 - Only allow for minor changes per measurement
@@ -19,25 +6,24 @@ Account for fluke readings
 
 Log prints actual time (fix log.sh)
 
+Alarm (low/high/sensor fail)
+
 
 Mount temperature sensor on stir plate / fermentation tank
+
+Show time to allowed heat/cool/idle
 
 Blink between desired and current mode
 
 Commands from "controller" TO brew2mate:
-- set target temp
 - request log entry
 - request parameters
 
 Detect open opened/closed
 
-Suspend fan on open door
-
 Live graph
 
 Afskærmning
-
-Repeat on buttons
 
 Cycle through actuals
 
@@ -49,8 +35,4 @@ Max is set to 85C
 
 Unplugging lightbulb caused PC to shutdown.
 
-Permissions to /dev/ttyACM0 may be lost
-
 Killing log.sh does not kill ttylog
-
-Display goes haywire
