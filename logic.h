@@ -131,7 +131,7 @@ int check_idle(float actual_temperature) {
   return IDLE;
 }
 
-// When in heating mode determinie which mode we want to change to
+// When in heating mode determine which mode we want to change to
 int check_heating(float actual_temperature) {
   // Continue heating until the temperature rises above the target temperature
   if (actual_temperature < target_temperature) 
@@ -170,9 +170,15 @@ void loop_logic() {
   case COOLING: desired_mode = check_cooling(actual_temperature); break;
   }
 
+  if (desired_mode == HEATING && !ALLOW_HEATING)
+    desired_mode = IDLE;
+
+  if (desired_mode == COOLING && !ALLOW_COOLING)
+    desired_mode = IDLE;
+
   if (desired_mode == current_mode)
     return;
-  
+
   // Set desired mode, if it is allowed
   switch (desired_mode) {
   case IDLE:    if (now > allowed_idle_time) set_mode(IDLE); break;

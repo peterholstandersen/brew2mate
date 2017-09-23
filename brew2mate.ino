@@ -25,7 +25,7 @@
 #define HEATING 2
 #define COOLING 3
 
-#define PROBE_INDEX1		1
+#define PROBE_INDEX1		0
 #define PROBE_INDEX2		2
 
 #define TEMPERATURE_TOLERANCE   0.5f
@@ -35,6 +35,9 @@
 #else
 #define START_UP_DELAY          FIVE_MINUTES
 #endif
+
+#define ALLOW_HEATING false
+#define ALLOW_COOLING true
 
 #define MINIMUM_IDLE_TIME       TEN_MINUTES
 #define MINIMUM_HEAT_TIME       FIVE_MINUTES
@@ -47,7 +50,7 @@
 #if !TEST_MODE
 const
 #endif
-float target_temperature = 18.0;
+float target_temperature = 7.0;
 
 float min_temperature = 99.9;
 float max_temperature = 00.0;
